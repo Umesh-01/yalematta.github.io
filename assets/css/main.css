@@ -285,7 +285,7 @@ hr {
 }
 
 .menu-content a:hover {
-  color: var(--link-color);
+  color: #000;
   font-weight: 800px;
 }
 
