@@ -286,14 +286,16 @@ hr {
 
 .menu-content a:hover {
   color: var(--link-color);
-  font-weight: 600px;
+  font-weight: 800px;
 }
 
-.menu-content a:active {
+.menu-content .current {
   color: var(--link-color);
-  font-weight: 600px;
+  font-weight: 800px;
   text-decoration: underline;
 }
+
+
 
 .social-icons {
   float: right;
