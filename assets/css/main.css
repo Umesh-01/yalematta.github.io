@@ -285,11 +285,12 @@ hr {
 }
 
 .menu-content a:hover {
-  color: #000;
+  color: var(--link-color);
 }
 
 .menu-content .current {
   color: red;
+  font-weight: 600px;
   text-decoration: underline;
 }
 
