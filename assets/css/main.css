@@ -286,12 +286,10 @@ hr {
 
 .menu-content a:hover {
   color: #000;
-  font-weight: 800px;
 }
 
 .menu-content .current {
-  color: var(--link-color);
-  font-weight: 800px;
+  color: red;
   text-decoration: underline;
 }
 
