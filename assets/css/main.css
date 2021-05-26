@@ -284,6 +284,17 @@ hr {
   padding-right: 10px;
 }
 
+.menu-content a:hover {
+  color: var(--link-color);
+  font-weight: 600px;
+}
+
+.menu-content a:active {
+  color: var(--link-color);
+  font-weight: 600px;
+  text-decoration: underline;
+}
+
 .social-icons {
   float: right;
 }
