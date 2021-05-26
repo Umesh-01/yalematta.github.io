@@ -279,7 +279,7 @@ hr {
 }
 
 .menu-content a {
-  color: var(--light-text-color);
+  color: red;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -287,14 +287,6 @@ hr {
 .menu-content a:hover {
   color: #0070C9;
 }
-
-.menu-content .current {
-  color: red;
-  font-weight: 600px;
-  text-decoration: underline;
-}
-
-
 
 .social-icons {
   float: right;
