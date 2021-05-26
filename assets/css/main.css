@@ -285,7 +285,7 @@ hr {
 }
 
 .menu-content a:hover {
-  color: var(--link-color);
+  color: #0070C9;
 }
 
 .menu-content .current {
